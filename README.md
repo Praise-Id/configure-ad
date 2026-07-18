@@ -101,7 +101,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - Click "Next: Networking," and confirm the Virtual network and Subnet dropdowns match the ones used for DC-1.
 - Click "Review + create," then click "Create" once validation passes.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Create Client VM"/>
+<img width="1001" height="666" alt="image" src="https://github.com/user-attachments/assets/98a15783-3e9c-42f4-bda6-e479b80f1825" />
 </p>
 
 <br />
