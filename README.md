@@ -34,7 +34,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - On the Basics tab, select your subscription, name the resource group (e.g., "DomainLab-RG"), and choose the region closest to you.
 - Click "Review + create," then click "Create" once validation passes.
 <p>
-<img width="938" height="626" alt="image" src="https://github.com/user-attachments/assets/122f9e5f-0a57-4fd6-bd5f-b2386a07485a" />
+<img width="953" height="637" alt="image" src="https://github.com/user-attachments/assets/0243a91f-67e8-4290-855d-02ab308f86b8" />
 </p>
 
 <br />
@@ -57,7 +57,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - In the Azure search bar, type "Virtual machines" and click it when it appears.
 - Click "Create," then select "Azure virtual machine."
 - On the Basics tab, select your subscription and resource group, name the VM "DC-1," choose the same region as your virtual network, and select the "Windows Server 2022" image.
-- Under Administrator account, set the Username to "labuser" and the Password to "Cyberlab123!"
+- Under the Administrator account, set the Username to "labuser" and the Password to "Cyberlab123!"
 - Click "Next: Networking," and confirm the Virtual network and Subnet dropdowns show the network created earlier.
 - Click "Review + create," then click "Create" once validation passes.
 <p>
