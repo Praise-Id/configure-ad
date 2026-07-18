@@ -34,7 +34,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - On the Basics tab, select your subscription, name the resource group (e.g., "DomainLab-RG"), and choose the region closest to you.
 - Click "Review + create," then click "Create" once validation passes.
 <p>
-<img width="953" height="637" alt="image" src="https://github.com/user-attachments/assets/0243a91f-67e8-4290-855d-02ab308f86b8" />
+<img width="965" height="636" alt="image" src="https://github.com/user-attachments/assets/e6050358-05ea-4bbc-8107-d33de6d66a89" />
 </p>
 
 <br />
