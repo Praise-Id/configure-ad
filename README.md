@@ -62,7 +62,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - Click "Next: Networking," and confirm the Virtual network and Subnet dropdowns show the network created earlier.
 - Click "Review + create," then click "Create" once validation passes.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Create Domain Controller VM"/>
+<img width="1010" height="642" alt="image" src="https://github.com/user-attachments/assets/987981fb-e3bd-43aa-9456-02199fbd297b" />
 </p>
 
 <br />
