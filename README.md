@@ -44,11 +44,11 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - In the Azure search bar, type "Virtual networks" and click it when it appears.
 - Click "Create" near the top-left of the page.
 - On the Basics tab, select your subscription, choose the resource group created above, name the virtual network (e.g., "DomainLab-VNet"), and select the same region used previously.
-- Fill in all other fields as needed.
-- Click "Networking," and leave the default address space and subnet, or customize as needed.
+- Click "Next: IP Addresses," and leave the default address space and subnet, or customize as needed.
 - Click "Review + create," then click "Create" once validation passes.
+  
 <p>
-<img width="1028" height="736" alt="image" src="https://github.com/user-attachments/assets/378eb9fa-e9b2-4a18-b3e0-74ed0bfa5803" />
+<img width="1007" height="747" alt="image" src="https://github.com/user-attachments/assets/afa6af56-e60b-4758-be88-936971c4a1e4" />
 </p>
 
 <br />
