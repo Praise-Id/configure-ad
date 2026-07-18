@@ -111,7 +111,4 @@ Step 11: Verify DNS Settings on Client-1
 <strong>Step 11: Verify DNS Settings on Client-1.</strong> In the same Command Prompt window, type <code>ipconfig /all</code> and press Enter. Scroll through the output and confirm that the "DNS Servers" entry matches DC-1's private IP address.
 </p>
 <br />
-<h2>Notes</h2>
-<p>
-Do not delete the VMs (DC-1 and Client-1) after completing this lab, as they will be used in upcoming labs. If you are done for the day and want to save on Azure costs, simply "Stop" the VMs within the Azure Portal rather than deleting them.
-</p>
+
