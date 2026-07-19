@@ -133,10 +133,11 @@ First, create a Resource Group. This will keep all the resources for this lab or
 
 <h4>Next, log into Client-1</h4>
 
-- On Client-1's overview page, click "Connect," then select "RDP," and download and open the RDP file.
-- Log in using username "labuser" and password "Cyberlab123!"
+<b>Connect to Client-1 using one of the following methods:</b>
+  - Option A — Azure Portal: Click "Connect," then select "RDP," and download and open the RDP file. Log in using username "labuser" and password "Cyberlab123!"
+  - Option B — Remote Desktop Connection app: Click the Start menu on your local computer, type "Remote Desktop Connection," and open it. Enter Client-1's public IP address in the "Computer" field, click "Show Options," and enter "labuser" in the "User name" field, then click "Connect."When prompted, enter the password "Cyberlab123!", then click "OK."
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Log Into Client-1"/>
+<img width="1242" height="532" alt="image" src="https://github.com/user-attachments/assets/201e2313-f5a8-4c6c-8eea-78627ded189e" />
 </p>
 
 <br />
