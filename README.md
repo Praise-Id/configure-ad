@@ -124,7 +124,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 <h4>Next, restart Client-1 from the Azure Portal</h4>
 
 - On Client-1's overview page in Azure, click the "Restart" button near the top of the page and confirm if prompted.
-- Wait a few minutes for the VM to fully restart.
+- Wait a few minutes for the VM to restart fully.
 <p>
 <img width="821" height="396" alt="image" src="https://github.com/user-attachments/assets/62408e86-24c3-4af3-b8b0-e730768f28d8" />
 </p>
@@ -166,6 +166,9 @@ First, create a Resource Group. This will keep all the resources for this lab or
 <h4>Finish the lab, but do not delete the VMs in Azure</h4>
 
 - We will use DC-1 and Client-1 for upcoming labs, so leave them in place.
-- If you are done for the day and want to save money, simply "Stop" the VMs within the Azure Portal rather than deleting them.
+- If you are done for the day and want to save money, "Stop" the VMs within the Azure Portal rather than deleting them.
 
 <br />
+
+
+<h6>Prerequisite files & steps gotten from<a href="https://coursecareers.com/course/it"> Course Careers IT Course</h6>
