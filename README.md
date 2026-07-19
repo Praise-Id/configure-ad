@@ -69,12 +69,12 @@ First, create a Resource Group. This will keep all the resources for this lab or
 
 <h4>Next, set DC-1's Private IP Address to static</h4>
 
-- On DC-1's overview page in Azure, click "Networking" in the left-hand menu, then click the Network Interface link.
+- On DC-1's overview page in Azure, click "Networking" in the left-hand menu, then click "Network settings", then click the Network Interface link.
 - Click "IP configurations" in the left-hand menu, then click on the listed IP configuration.
 - Change the "Assignment" setting from "Dynamic" to "Static."
 - Confirm the Private IP address field, then click "Save."
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Set Static Private IP"/>
+<img width="976" height="726" alt="image" src="https://github.com/user-attachments/assets/f333fb7e-64dc-4d7a-b26d-a9dc5e43b50d" />
 </p>
 
 <br />
