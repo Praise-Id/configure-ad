@@ -81,8 +81,10 @@ First, create a Resource Group. This will keep all the resources for this lab or
 
 <h4>Next, log into DC-1 and disable the Windows Firewall (for testing connectivity)</h4>
 
-- On DC-1's overview page, click "Connect," then select "RDP," and download and open the RDP file.
-- Log in using username "labuser" and password "Cyberlab123!"
+- On DC-1's overview page in Azure, note its Public IP address (listed on the Overview page).
+<b>Connect to DC-1 using one of the following methods:</b>
+  - Option A — Azure Portal: Click "Connect," then select "RDP," and download and open the RDP file. Log in using username "labuser" and password "Cyberlab123!"
+  - Option B — Remote Desktop Connection app: Click the Start menu on your local computer, type "Remote Desktop Connection," and open it. Enter DC-1's public IP address in the "Computer" field, click "Show Options," and enter "labuser" in the "User name" field, then click "Connect."When prompted, enter the password "Cyberlab123!", then click "OK."
 - Once logged in, open "Windows Defender Firewall" from the Start menu.
 - Click "Turn Windows Defender Firewall on or off" in the left-hand menu.
 - Select "Turn off Windows Defender Firewall" for both Private and Public network settings, then click "OK" to save.
