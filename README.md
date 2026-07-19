@@ -92,7 +92,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 
 <p>
 </p>
-<img width="497" height="350" alt="image" src="https://github.com/user-attachments/assets/6ee06cdd-63c7-42d5-a2b7-21c193bc9f90" />
+<img width="1277" height="895" alt="image" src="https://github.com/user-attachments/assets/df07d5b7-a638-4eff-b4d2-f650d8b99539" />
 <br />
 
 <h4>Next, create the Client VM (Windows 10) named "Client-1"</h4>
