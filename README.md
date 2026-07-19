@@ -148,17 +148,17 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - Type "ping <DC-1-Private-IP-Address>" and press Enter, replacing the placeholder with DC-1's actual private IP address.
 - Ensure the ping succeeded — you should see replies coming back from DC-1's IP address.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Ping DC-1 from Client-1"/>
+<img width="713" height="480" alt="image" src="https://github.com/user-attachments/assets/c96da01b-5c52-4cf7-b473-f6a7803d81d0" />
 </p>
 
 <br />
 
 <h4>Next, from Client-1, open PowerShell and run ipconfig /all</h4>
 
-- In the same Command Prompt or a new PowerShell window, type "ipconfig /all" and press Enter.
+- In the same Command Prompt, open PowerShell from the start menu, type "ipconfig /all" and press Enter.
 - Scroll through the output and confirm that the DNS settings show DC-1's private IP Address.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Verify DNS Settings"/>
+<img width="1337" height="452" alt="image" src="https://github.com/user-attachments/assets/2880e9a6-adac-4cbe-b495-1f45b4b458e4" />
 </p>
 
 <br />
