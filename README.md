@@ -111,12 +111,12 @@ First, create a Resource Group. This will keep all the resources for this lab or
 
 <h4>Next, set Client-1's DNS settings to DC-1's Private IP address</h4>
 
-- First, note DC-1's private IP address from its Azure overview page.
-- Go to Client-1's overview page, click "Networking" in the left-hand menu, then click the Network Interface link.
+- First, copy DC-1's private IP address from its Azure overview page.
+- Go to Client-1's overview page, click "Networking" in the left-hand menu, then click "Network settings", then click the Network Interface link.
 - Click "DNS servers" in the left-hand menu, select "Custom DNS servers," and enter DC-1's private IP address.
-- Click "Save."
+- Click "Apply."
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Set Client-1 DNS Settings"/>
+<img width="1248" height="757" alt="image" src="https://github.com/user-attachments/assets/c24daf35-63c1-431a-9b17-bbc70639cc2c" />
 </p>
 
 <br />
@@ -126,7 +126,7 @@ First, create a Resource Group. This will keep all the resources for this lab or
 - On Client-1's overview page in Azure, click the "Restart" button near the top of the page and confirm if prompted.
 - Wait a few minutes for the VM to fully restart.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Restart Client-1"/>
+<img width="821" height="396" alt="image" src="https://github.com/user-attachments/assets/62408e86-24c3-4af3-b8b0-e730768f28d8" />
 </p>
 
 <br />
